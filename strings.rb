@@ -6,7 +6,7 @@ puts "RUBY is FUNNY".swapcase
 puts "Juan Carlos".reverse
 
 puts "This is an Erorr".gsub('Erorr', "Error")
-puts "Change all the letters a".gsub("a","@")
+puts "Change letters a to @".gsub("a","@")
 
 puts " This  string have double spaces ".strip
 puts "Ruby Programming Language".include?('Ruby')
